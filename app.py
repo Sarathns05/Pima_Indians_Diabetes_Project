@@ -24,7 +24,8 @@ def predict():
     insulin = request.form['5'] 
     bmi = request.form['6'] 
     dpf = request.form['7'] 
-    age = request.form['8'] 
+    age = request.form['8']
+     
     rowDF= pd.DataFrame([pd.Series([pregnancies,glucose,bloodPressure,skinThickness,insulin,bmi,dpf,age])]) 
     rowDF_new = pd.DataFrame(scale.transform(rowDF)) 
     print(rowDF_new)
