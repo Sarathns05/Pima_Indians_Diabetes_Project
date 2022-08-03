@@ -1,6 +1,7 @@
 
 Pima Indians Diabetes Project
 ------------------------------------------------------------------------------------------------------
+This is an end-to-end Machine Learning project to predict whether the person has Diabetes or not.
 
 Input Dataset
 ----------------
@@ -25,3 +26,5 @@ Dataset details
 8: Age: Age (years)
 
 9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
+
+
