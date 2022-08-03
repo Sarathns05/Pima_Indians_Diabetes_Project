@@ -27,4 +27,11 @@ Dataset details
 
 9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
+Model Deployment
+--------------------
+
+    * The web application is built using python library -> Flask and Web Programming languages -> HTML, CSS, Bootstrap
+    * The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements        (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
+    * See the deployed application here https://diabetesfinder.herokuapp.com/
+
 
