@@ -1,5 +1,5 @@
 
-Pima Indians Diabetes Project
+                                      Pima Indians Diabetes Project
 ------------------------------------------------------------------------------------------------------
 This is an end-to-end Machine Learning project to predict whether the person has Diabetes or not.
 
