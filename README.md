@@ -27,6 +27,18 @@ Dataset details
 
 9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
+Technology and tools used
+-------------------------
+
+* Python
+* Numpy and Pandas for data cleaning
+* Matplotlib for visualisation
+* Sklearn for model building
+* Google colab as IDE
+* Python flask for http server
+* HTML/CSS for UI
+* Heroku for deployement
+
 Model Deployment
 --------------------
 
