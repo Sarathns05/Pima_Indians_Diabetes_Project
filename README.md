@@ -6,9 +6,8 @@ This is an end-to-end Machine Learning project to predict whether the person has
 Overview
 ------------
 
-In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as
-
-     
+In this project, the objective is to predict whether the person has Diabetes or not based on various features such as
+       
        * Pregnancies: Number of times pregnant
 
        * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
