@@ -3,29 +3,29 @@ Pima Indians Diabetes Project
 -------------------------------
 This is an end-to-end Machine Learning project to predict whether the person has Diabetes or not.
 
-Input Dataset
-----------------
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Overview
+------------
 
-Dataset details
-----------------
-1: Pregnancies: Number of times pregnant
+In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as
 
-2: Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+     
+        1: Pregnancies: Number of times pregnant
 
-3: BloodPressure: Diastolic blood pressure (mm Hg)
+        2: Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 
-4: SkinThickness: Triceps skinfold thickness (mm)
+        3: BloodPressure: Diastolic blood pressure (mm Hg)
 
-5: Insulin: 2-Hour serum insulin (mu U/ml)
+        4: SkinThickness: Triceps skinfold thickness (mm)
 
-6: BMI: Body mass index (weight in kg/(height in m)²)
+        5: Insulin: 2-Hour serum insulin (mu U/ml)
 
-7: DiabetesPedigreeFunction: Diabetes pedigree function
+        6: BMI: Body mass index (weight in kg/(height in m)²)
 
-8: Age: Age (years)
+        7: DiabetesPedigreeFunction: Diabetes pedigree function
 
-9: Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
+        8: Age: Age (years)
+
+The data set that has used in this project has taken from the https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. 
 
 Technology and tools used
 -------------------------
