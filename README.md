@@ -25,7 +25,11 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
         8: Age: Age (years)
 
-The data set that has used in this project has taken from the https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. 
+
+Data Source
+--------------
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. 
+
 
 Technology and tools used
 -------------------------
