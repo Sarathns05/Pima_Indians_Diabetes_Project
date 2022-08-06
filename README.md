@@ -56,3 +56,4 @@ Model Deployment
 * The web application is built using python library -> Flask and Web Programming languages -> HTML, CSS
 * The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements         (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
 * See the deployed application https://diabetesfinder.herokuapp.com/
+
