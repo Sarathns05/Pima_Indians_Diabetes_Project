@@ -27,7 +27,21 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 Data Source
 --------------
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. 
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.
+
+Learning Objective
+-------------------
+
+The following points were the objective of the project.(The main intention was to create an end-to-end ML project.)
+
+  * Data gathering
+  * Descriptive Analysis
+  * Data Visualizations
+  * Data Preprocessing
+  * Data Modelling
+  * Model Evaluation
+  * Model Deployment
+
 
 
 Technology and tools used
