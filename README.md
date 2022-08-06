@@ -9,21 +9,21 @@ Overview
 In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as
 
      
-        * Pregnancies: Number of times pregnant
+       * Pregnancies: Number of times pregnant
 
-        * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+       * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 
-        * BloodPressure: Diastolic blood pressure (mm Hg)
+       * BloodPressure: Diastolic blood pressure (mm Hg)
 
-        * SkinThickness: Triceps skinfold thickness (mm)
+       * SkinThickness: Triceps skinfold thickness (mm)
 
-        * Insulin: 2-Hour serum insulin (mu U/ml)
+       * Insulin: 2-Hour serum insulin (mu U/ml)
 
-        * BMI: Body mass index (weight in kg/(height in m)²)
+       * BMI: Body mass index (weight in kg/(height in m)²)
 
-        * DiabetesPedigreeFunction: Diabetes pedigree function
+       * DiabetesPedigreeFunction: Diabetes pedigree function
 
-        * Age: Age (years)
+       * Age: Age (years)
 
 
 Data Source
