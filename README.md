@@ -1,6 +1,9 @@
 
 Pima Indians Diabetes Project
 -------------------------------
+
+![appUI](https://user-images.githubusercontent.com/108679625/183301198-6cbcceb5-e37d-4ceb-b3d1-aa6b3a474066.png)
+
 This is an end-to-end Machine Learning project to predict whether the person has Diabetes or not.
 
 Overview
