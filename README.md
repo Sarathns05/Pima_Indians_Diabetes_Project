@@ -6,10 +6,8 @@ Pima Indians Diabetes Project
 
 This is an end-to-end Machine Learning project to predict whether the person has Diabetes or not.
 
-Overview
+Dataset Details
 ------------
-
-In this project, the objective is to predict whether the person has Diabetes or not based on various features such as
 
    * Pregnancies: Number of times pregnant
    * Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
@@ -38,6 +36,21 @@ The following points were the objective of the project.(The main intention was t
   * Data Modelling
   * Model Evaluation
   * Model Deployment
+  
+Overview
+----------
+
+Step 1: Data Preparation and model building
+
+      In this step, we will explore the data, do the required pre-processing and try various Machine Learning models
+
+Step 2: Building the app using Flask and HTML
+
+      Here, we will fetch the best-performing model from step 1 and build a web app using Flask and HTML.
+
+Step 3: Deploying the app using Heroku
+
+      In the end, we will deploy our working app through Heroku for the world to use our product.
 
 
 
