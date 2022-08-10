@@ -41,18 +41,14 @@ Overview
 ----------
 
 Step 1: Data Preparation and model building
-
-       In this step, we will explore the data, do the required pre-processing and try various Machine Learning models
+In this step, we will explore the data, do the required pre-processing and try various Machine Learning models
 
 Step 2: Building the app using Flask and HTML
-
-        Here, we will fetch the best-performing model from step 1 and build a web app using Flask and HTML.
+Here, we will fetch the best-performing model from step 1 and build a web app using Flask and HTML.
 
 Step 3: Deploying the app using Heroku
-
-       In the end, we will deploy our working app through Heroku for the world to use our product.
+In the end, we will deploy our working app through Heroku for the world to use our product.
   
-
 
 Technology and tools used
 -------------------------
