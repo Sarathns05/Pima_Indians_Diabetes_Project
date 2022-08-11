@@ -25,17 +25,17 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.
 Overview
 ----------
 
-Step 1: Data Preparation and model building
+STEP 1: Data Preparation and model building
 
-       In this step, explore the data, do the required pre-processing and try various Machine Learning models
+In this step, explore the data, do the required pre-processing and try various Machine Learning models
 
-Step 2: Building the app using Flask and HTML
+STEP 2: Building the app using Flask and HTML
 
-        Here, fetch the best-performing model from step 1 and build a web app using Flask and HTML.
+Here, fetch the best-performing model from step 1 and build a web app using Flask and HTML.
 
-Step 3: Deploying the app using Heroku
+STEP 3: Deploying the app using Heroku
 
-        In the end deploy the working app through Heroku for the world to use our product.
+In the end deploy the working app through Heroku for the world to use our product.
   
 
 Technology and tools used
@@ -59,4 +59,7 @@ Model Deployment
 
 
 ![appUI](https://user-images.githubusercontent.com/108679625/184126797-82acbee0-058a-4224-a6a7-bb2363a68a3b.png)
+
+![appUI2](https://user-images.githubusercontent.com/108679625/184127353-95767649-f3e6-4d7e-9ac0-c5a7bc93fc4f.png)
+
 
