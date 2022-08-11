@@ -1,10 +1,7 @@
 
-Pima Indians Diabetes Project
--------------------------------
+End To End Diabetes Prediction Application Using Machine Learning
+-----------------------------------------------------------------
 
-![appUI](https://user-images.githubusercontent.com/108679625/183301198-6cbcceb5-e37d-4ceb-b3d1-aa6b3a474066.png)
-
-This is an end-to-end Machine Learning project to predict whether the person has Diabetes or not.
 
 Dataset Details
 ------------
@@ -24,19 +21,7 @@ Data Source
 --------------
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.
 
-Learning Objective
--------------------
 
-The following points were the objective of the project.(The main intention was to create an end-to-end ML project.)
-
-  * Data gathering
-  * Descriptive Analysis
-  * Data Visualizations
-  * Data Preprocessing
-  * Data Modelling
-  * Model Evaluation
-  * Model Deployment
-  
 Overview
 ----------
 
@@ -71,4 +56,7 @@ Model Deployment
 * The web application is built using python library -> Flask and Web Programming languages -> HTML, CSS
 * The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements         (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
 * See the deployed application https://diabetesfinder.herokuapp.com/
+
+
+![appUI](https://user-images.githubusercontent.com/108679625/184126797-82acbee0-058a-4224-a6a7-bb2363a68a3b.png)
 
