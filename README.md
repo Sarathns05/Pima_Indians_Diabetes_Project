@@ -22,6 +22,19 @@ Data Source
 https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.
 
 
+Technology and tools used
+-------------------------
+
+* Python
+* Numpy and Pandas for data cleaning
+* Sklearn for model building
+* Google colab as IDE
+* Python flask for http server
+* HTML/CSS for UI
+* Heroku for deployement
+
+
+
 Overview
 ----------
 
@@ -38,17 +51,6 @@ STEP 3: Deploying the app using Heroku
 In the end deploy the working app through Heroku for the world to use our product.
   
 
-Technology and tools used
--------------------------
-
-* Python
-* Numpy and Pandas for data cleaning
-* Matplotlib for visualisation
-* Sklearn for model building
-* Google colab as IDE
-* Python flask for http server
-* HTML/CSS for UI
-* Heroku for deployement
 
 Model Deployment
 --------------------
