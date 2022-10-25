@@ -66,10 +66,35 @@ Importing the required Libraries and Loading the Dataset
 
 ![correlation(PimaIndianDiabetes)](https://user-images.githubusercontent.com/108679625/197685682-c06780ed-3aba-4db0-af25-03035626dd18.png)
 
-  ##### PAIRPLOT :
+  #### PAIRPLOT :
  
 ![Pairplot(PimaIndianDiabetes)](https://user-images.githubusercontent.com/108679625/197686035-1626f601-aedb-40bd-8a8f-e1305808e4a0.png)
 
+* Check the number of zeros in each independent variables and done the outlier treatment using 'Skin Thickness' variable.
+* Replace the zeros using the median value of dataset.
+* Check the countinuos columns in dataset and it cap with standard deviation
+
+#### TRAIN TEST SPLIT :
+ * Spliting the dataset into X and y.
+ * 70% for trainning and 30% for testing.
+![Screenshot from 2022-10-25 10-37-45](https://user-images.githubusercontent.com/108679625/197687744-a81f1cd7-676d-4dae-8096-b726bbd87d01.png)
+
+#### SCALE DOWNN :
+ * It is done using StandardScaler function
+ * create pickle file of scale down using joblib
+![Screenshot from 2022-10-25 10-37-45(1)](https://user-images.githubusercontent.com/108679625/197687909-ecd9eab4-86cf-4495-8ce8-77daa3508ac4.png)
+
+ #### MODEL BUILDING :
+  * Apply all classification algorithms
+  * check the accuracy score of trainning and testing
+![Screenshot from 2022-10-25 10-46-33](https://user-images.githubusercontent.com/108679625/197688784-c3d5d65e-f5fb-4259-90fe-bd9a5c56d272.png)
+![Screenshot from 2022-10-25 10-46-33(1)](https://user-images.githubusercontent.com/108679625/197688939-764cfa79-ae5b-49f7-a996-3d0be998e32f.png)
+![Screenshot from 2022-10-25 10-51-01](https://user-images.githubusercontent.com/108679625/197689274-d1f91996-8c76-4207-9395-b614406ed441.png)
+
+
+
+  
+  
   
 
 Model Deployment
