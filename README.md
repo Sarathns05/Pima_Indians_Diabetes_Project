@@ -119,8 +119,6 @@ STEP 3: Deploying the app using Heroku
 * The entire application is finally deployed on Heroku by adding - Procfile (informs Heroku that which application is to be run first), Requirements         (notifies Heroku about the libraries that needs to be installed before deploying or running our application)
 * See the deployed application [here](https://diabetesfinder.herokuapp.com/).
 
-
-USER INTERFACE :
 ![appUI](https://user-images.githubusercontent.com/108679625/184126797-82acbee0-058a-4224-a6a7-bb2363a68a3b.png)
 
 ![appUI2](https://user-images.githubusercontent.com/108679625/184127353-95767649-f3e6-4d7e-9ac0-c5a7bc93fc4f.png)
