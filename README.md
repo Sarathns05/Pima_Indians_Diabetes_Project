@@ -58,6 +58,15 @@ Importing the required Libraries and Loading the Dataset
 ![Screenshot from 2022-08-12 09-35-45](https://user-images.githubusercontent.com/108679625/197683462-cde430af-9a84-4a17-b348-cb96b78c56c9.png)
 
 #### EDA(Exploratory Data Analysis) :
+  *  Analy the target variable (Outcome)
+  *  Check the unique values, count and correlation in target variables and also plot it.
+  *  After done the value count. I understand the dataset is imbalance
+  *  Check the dataset information such as shape, info, describe, identify missing value using isna().
+  *  plot the heatmap using correlation in input dataset.
+
+![correlation(PimaIndianDiabetes)](https://user-images.githubusercontent.com/108679625/197685682-c06780ed-3aba-4db0-af25-03035626dd18.png)
+
+  
 
 Model Deployment
 --------------------
