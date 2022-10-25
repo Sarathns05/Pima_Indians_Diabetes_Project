@@ -99,6 +99,18 @@ Importing the required Libraries and Loading the Dataset
 ![Screenshot from 2022-10-25 10-59-56](https://user-images.githubusercontent.com/108679625/197690580-b7df9bc1-d407-4d2f-a243-1572542fa96c.png)
 
   
+STEP 2: Building the app using Flask and HTML
+-----------------------------------------------
+ * Create a new file app.py.
+ * Import the flask module, and create a Flask app by instantiating the Flask class
+ * Import the saved pre-processer element and the model.
+ * Define the route that will render the index.html webpage (created using HTML). This file has CSS running and background for the look and feel.
+ * Define the predict/ route and a function corresponding to it that will accept the different values for the inputs and return the predictions using the
+   SVM model
+![Sreenshot from 2022-10-25 11-07-09](https://user-images.githubusercontent.com/108679625/197691443-b6a7c3c4-19fe-40ec-a54b-0c24847dec1b.png)
+
+
+
 
 Model Deployment
 --------------------
