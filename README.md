@@ -66,6 +66,10 @@ Importing the required Libraries and Loading the Dataset
 
 ![correlation(PimaIndianDiabetes)](https://user-images.githubusercontent.com/108679625/197685682-c06780ed-3aba-4db0-af25-03035626dd18.png)
 
+  ##### PAIRPLOT :
+ 
+![Pairplot(PimaIndianDiabetes)](https://user-images.githubusercontent.com/108679625/197686035-1626f601-aedb-40bd-8a8f-e1305808e4a0.png)
+
   
 
 Model Deployment
