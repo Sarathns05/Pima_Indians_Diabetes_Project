@@ -52,6 +52,13 @@ In the end deploy the working app through Heroku for the world to use our produc
   
 
 
+STEP 1 : Data Preparation and Model Building
+----------------------------------------------
+
+Importing the required Libraries and Loading the Dataset
+![Screenshot from 2022-08-12 09-35-45](https://user-images.githubusercontent.com/108679625/197683462-cde430af-9a84-4a17-b348-cb96b78c56c9.png)
+
+
 Model Deployment
 --------------------
 
