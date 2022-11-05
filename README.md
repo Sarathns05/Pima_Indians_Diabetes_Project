@@ -18,10 +18,10 @@ Dataset Details
 
 Data Source
 --------------
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.
+- [Kaggle-Pima-Indian-Diabetes-Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.)
 
 
-Technology and tools used
+Technology and tools use
 -------------------------
 
 * Python
