@@ -18,7 +18,7 @@ Dataset Details
 
 Data Source
 --------------
-- [Kaggle-Pima-Indian-Diabetes-Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database.)
+- [Kaggle-Pima-Indian-Diabetes-Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 
 Technology and tools use
