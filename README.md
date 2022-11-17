@@ -96,6 +96,7 @@ Importing the required Libraries and Loading the Dataset
  * SVC gives the best accuracy
  * Making the best model SVC and saving it as pickle file using joblib
 ![Screenshot from 2022-10-25 10-57-45](https://user-images.githubusercontent.com/108679625/197690253-3a4efe33-844f-4cf7-bebc-a5d321c68d62.png)
+![Screenshot from 2022-11-17 10-26-49](https://user-images.githubusercontent.com/108679625/202360133-95bf69a7-c71d-40f5-a016-8c0499f84b31.png)
 
 
   
@@ -108,7 +109,6 @@ STEP 2: Building the app using Flask and HTML
  * Define the predict/ route and a function corresponding to it that will accept the different values for the inputs and return the predictions using the
    SVM model
 ![Sreenshot from 2022-10-25 11-07-09](https://user-images.githubusercontent.com/108679625/197691443-b6a7c3c4-19fe-40ec-a54b-0c24847dec1b.png)
-
 
 
 
