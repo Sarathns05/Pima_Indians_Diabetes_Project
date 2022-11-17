@@ -96,7 +96,7 @@ Importing the required Libraries and Loading the Dataset
  * SVC gives the best accuracy
  * Making the best model SVC and saving it as pickle file using joblib
 ![Screenshot from 2022-10-25 10-57-45](https://user-images.githubusercontent.com/108679625/197690253-3a4efe33-844f-4cf7-bebc-a5d321c68d62.png)
-![Screenshot from 2022-10-25 10-59-56](https://user-images.githubusercontent.com/108679625/197690580-b7df9bc1-d407-4d2f-a243-1572542fa96c.png)
+
 
   
 STEP 2: Building the app using Flask and HTML
