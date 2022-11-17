@@ -92,11 +92,11 @@ Importing the required Libraries and Loading the Dataset
 ![Screenshot from 2022-10-25 10-51-01](https://user-images.githubusercontent.com/108679625/197689274-d1f91996-8c76-4207-9395-b614406ed441.png)
 
 #### HYPERPARAMETER TUNNING :
- #####* Hyperparameter tunning done in all algorithms to find best model.
+ ##### * Hyperparameter tunning done in all algorithms to find best model.
 ![Screenshot from 2022-10-25 10-57-45](https://user-images.githubusercontent.com/108679625/197690253-3a4efe33-844f-4cf7-bebc-a5d321c68d62.png)
 ![Screenshot from 2022-11-17 10-26-49](https://user-images.githubusercontent.com/108679625/202360133-95bf69a7-c71d-40f5-a016-8c0499f84b31.png)
- #####* RandomForest gives the best accuracy
- #####* Making the best model RandomForest and saving it as pickle file using joblib
+ #####  * RandomForest gives the best accuracy
+ ##### * Making the best model RandomForest and saving it as pickle file using joblib
 
 
   
