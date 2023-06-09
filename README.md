@@ -1,5 +1,5 @@
 
-# End To End Diabetes Prediction Application Using Machine Learning
+# End To End Diabetes Prediction Web App Using Machine Learning
 
 
 Dataset Details
